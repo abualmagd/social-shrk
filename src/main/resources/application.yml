@@ -1,0 +1,15 @@
+spring:
+  data:
+    mongodb:
+      database: socialfunnel
+
+      username: ismail
+
+      password: ismail99
+
+      host: localhost
+
+      port: 5000
+
+    
+
